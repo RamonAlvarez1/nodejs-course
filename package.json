@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-course",
+  "version": "0.0.1",
+  "description": "Course of nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "course",
+    "node"
+  ],
+  "author": "Ramon Alvarez",
+  "license": "ISC"
+}
